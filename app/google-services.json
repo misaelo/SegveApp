@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "437032619152",
+    "firebase_url": "https://segve-e3fe6.firebaseio.com",
+    "project_id": "segve-e3fe6",
+    "storage_bucket": "segve-e3fe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437032619152:android:ee3ddad3b4d6f607",
+        "android_client_info": {
+          "package_name": "com.socomtec.tesis.segve.app.segve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437032619152-109gh7q2e6gv4p6ts5dfpe6nv0ca45rv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socomtec.tesis.segve.app.segve",
+            "certificate_hash": "5dd1347f73fe7439d2918e408c89594f4887ef59"
+          }
+        },
+        {
+          "client_id": "437032619152-bmd9qfailrjr4ku88g38ch7ku2qg1jvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJaLrATT0gLvt6ZHc8hPh3rmI-4KxtWAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437032619152-bmd9qfailrjr4ku88g38ch7ku2qg1jvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437032619152:android:d51a3e8e00833129",
+        "android_client_info": {
+          "package_name": "com.socomtec.app.tesis.segve.app.segveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437032619152-iib04tvfj3hvfnigrph22riiub1csgg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socomtec.app.tesis.segve.app.segveapp",
+            "certificate_hash": "5dd1347f73fe7439d2918e408c89594f4887ef59"
+          }
+        },
+        {
+          "client_id": "437032619152-bmd9qfailrjr4ku88g38ch7ku2qg1jvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJaLrATT0gLvt6ZHc8hPh3rmI-4KxtWAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437032619152-bmd9qfailrjr4ku88g38ch7ku2qg1jvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

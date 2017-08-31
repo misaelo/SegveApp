@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Segve App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="enter">Ingresar</string>
+    <string name="cerrar">Cerrar Sesion</string>
+    <string name="title_activity_maps">Ubicacion</string>
+
+    <string name="alerta">Alerta</string>
+    <string name="alertarapida">Alerta Rápida</string>
+    <string name="roboV">Robo Vehículo</string>
+    <string name="robo">Robo Casa</string>
+    <string name="incendio">Incendio</string>
+    <string name="violencia">Violencia Intrafamiliar</string>
+    <string name="numero">Numeros de Emergencia</string>
+    <string name="video">Video Vigilancia</string>
+
+
+    <string name="asalto">Asalto</string>
+    <string name="title_activity_maps_dos">Mapa</string>
+    <string name="title_activity_video">Video Vigilancia</string>
+    <string name="title_NumerosActivity">Numeros de Emergencia</string>
+    <string name="title_activity_chat">Chat Vecinal</string>
+</resources>

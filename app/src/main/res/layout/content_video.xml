@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.socomtec.app.tesis.segve.app.segveapp.Activities.VideoActivity"
+    android:orientation="vertical"
+    tools:showIn="@layout/activity_video"
+    android:weightSum="1">
+
+    <!--<VideoView
+       android:id="@+id/videoV"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"-->
+       />
+    <TextView
+        android:layout_marginTop="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:text="Camara 1"
+        android:layout_weight="0.09" />
+
+    <WebView
+        android:id="@+id/webViewqq"
+        android:layout_margin="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="260dp" />
+
+</LinearLayout>
